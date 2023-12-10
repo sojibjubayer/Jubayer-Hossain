@@ -16,7 +16,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="70" height="70"/> &nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70" />   &nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="180" height="100"/> &nbsp
-  <img src="https://i.ibb.co/XpSQ37z/node.png" alt="express" width="170" height="70" /> &nbsp
+  <img src="https://i.ibb.co/yB1HGkj/e16da876-c2fd-4eb8-ae72-4b193c534938-Edited.png" alt="express" width="170" height="70" /> &nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="70" height="70"/>  
   </p>
